@@ -1,0 +1,137 @@
+<html>
+ 
+   <head>
+        <title>Породы кошек</title>
+        <meta charset="UTF-8">
+  </head>
+  <body bgcolor="MistyRose">
+<center>
+  <font face="Verdana" size=10 color="navy">
+   Лучшие породы кошек для жизни в квартире
+  </font><br> </center>
+<ul style="list-style: none">
+  <li> <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%BA%D0%B0" target="_blank">
+     <center><img src="https://zen-top.ru/wp-content/uploads/2020/04/porody-koshek-dla-doma-main1.jpg" alt="Красивые котята" border="3"></center>
+     </a>
+
+
+<p>Кошка помогает добавить дому уюта, тепла и спокойствия. Именно по этой причине многие любители животных заводят в своих квартирах именно этих питомцев. Пород сегодня выведено очень много – небольшие и крупные, пушистые и гладкошерстные. Одни из них хорошо подойдут для содержания в замкнутом пространстве, другие же будут чувствовать себя не слишком комфортно. Если же вы хотите, чтобы у животные были созданы все условия для хорошей жизни, не лишним будет почитать специализированную литературу, пообщаться с опытными фелинологами, которые помогут подобрать лучшую породу. Чтобы облегчить ваш выбор, мы решили составить список наиболее популярных и "пригодных" пород для жизни в квартире.</p> 
+ <p><a name="top"></a> </p> <br clear="all">
+ 
+<font face="Verdana" size=5 color="navy">
+   Лучшие породы кошек:
+  </font><br>
+
+  
+<ul type="disc">
+         <li><p><a href="#birma">Бирманская порода</a></p></li>
+         <li><a href="#meinkun">Мейн-кун</a></p></li>
+         <li><a href="#regdoll">Рэгдолл</a></p></li>
+         <li><a href="#britain">Британская кошка</a></p></li>
+         <li><a href="#manks">Мэнкс</a></p></li>
+         <li><a href="#abissin">Абиссинская порода</a></p></li>
+         <li><a href="#siam">Сиамские кошки</a></p></li>
+         <li><a href="#pers">Персидские кошки</a></p></li>
+       </ul>
+<p><a name="birma"></a> </p> <br clear="all">
+<ul style="list-style: none"><font face="Verdana" size=5 color="navy">
+   1. Бирманская порода
+  </font><br>
+<li>
+<a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0" target="_blank">
+     <img src="https://zen-top.ru/wp-content/uploads/2020/04/10-porody-koshek-dla-doma-birmanskaja.jpg" align="left" width="50%" height="50%" alt="Бирманская порода" border="3" hspace="20" vspace="20">
+     </a> 
+
+Бирманская кошка получила название от острова Бирма (с 1989 г - Мьянма), расположенного на западе полуострова Индокитай. Порода относится к полудлинношерстным кошкам, обладающим шерстью «персов» и колор-пойнтовым окрасом, напоминающим маску «сиамов». 
+  </li>
+<br clear="all">
+<li>
+<p><a name="meinkun"></a> </p>
+<font face="Verdana" size=5 color="navy">
+   2. Мейн-кун
+  </font><br>
+
+<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B9%D0%BD-%D0%BA%D1%83%D0%BD" target="_blank">
+     <img src="https://zen-top.ru/wp-content/uploads/2020/04/9-porody-koshek-dla-doma-mein-kun.jpg" align="right" width="50%" height="50%" alt="Мейн-кун" border="3">
+     </a> 
+Аборигенная порода американских кошек, характеризующаяся крупными размерами и внушительной массой тела. Представители породы – это надежные друзья и компаньоны, способные быстро завоевать любовь всей семьи.
+  </li>
+  <br clear="all">
+  <li>
+<p><a name="regdoll"></a> </p>
+<font face="Verdana" size=5 color="navy">
+   3. Рэгдолл
+  </font><br>
+
+<a href="https://ru.wikipedia.org/wiki/%D0%A0%D1%8D%D0%B3%D0%B4%D0%BE%D0%BB%D0%BB" target="_blank">
+     <img src="https://zen-top.ru/wp-content/uploads/2020/04/8-porody-koshek-dla-doma-regdoll.jpg" align="left" width="50%" height="50%" alt="Рэгдолл" border="3" hspace="20" vspace="20">
+     </a> 
+Крупное животное с очень мирным характером, благодаря чему оно отлично подходит для больших семей с детьми. Появилась эта порода в США, а на сегодняшний день широко распространилась по всему миру. Само слово «рэгдолл» дословно переводится как «тряпичная» или «лоскутная кукла».
+
+  </li>
+  <br clear="all">
+  <li>
+<p><a name="britain"></a> </p>
+<font face="Verdana" size=5 color="navy">
+   4. Британская кошка
+  </font><br>
+<a href="https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE%D1%88%D1%91%D1%80%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0" target="_blank">
+     <img src="https://zen-top.ru/wp-content/uploads/2020/04/7-porody-koshek-dla-doma-britanskaja.jpg" align="right" width="50%" height="50%" alt="Британская порода" border="3" hspace="20" vspace="20">
+     </a> 
+Британские коты — это животные среднего и крупного размера, имеющие крепкий приземистый корпус и массивные короткие лапы. Вес взрослого кота составляет от 3 до 7 кг, кошки — от 3 до 5 кг.
+  </li>
+  <br clear="all">
+  <li>
+<p><a name="manks"></a> </p>
+<font face="Verdana" size=5 color="navy">
+   5. Мэнкс
+  </font><br>
+<a href="https://ru.wikipedia.org/wiki/%D0%9C%D1%8D%D0%BD%D0%BA%D1%81" target="_blank">
+     <img src="https://avatars.mds.yandex.net/get-zen_doc/151304/pub_5cd7f08e0de4a600b3dabf7a_5cd7f224849658051f768cfd/scale_1200" align="left" height="322" alt="Мэнкс" border="3" hspace="20" vspace="20">
+     </a> 
+Порода кошек, возникшая на острове Мэн. Отличительной особенностью мэнских кошек обычно считается отсутствие хвоста, хотя в действительности не все представители этой породы бесхвосты. Порода короткошёрстная: полудлинношёрстная разновидность называется кимрийской кошкой.
+  </li>
+  <br clear="all">
+  <li>
+<p><a name="abissin"></a> </p>
+<font face="Verdana" size=5 color="navy">
+   6. Абиссинская порода
+  </font><br>
+<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B8%D1%81%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0" target="_blank">
+     <img src="https://avatars.mds.yandex.net/get-zen_doc/2749135/pub_5ecffa402afbfa48ce15d98b_5ecfff3c0a793d54c3af6ba9/scale_1200" align="right" width="50%" height="50%" alt="Абиссинская порода" border="3" hspace="20" vspace="20">
+     </a> 
+Порода домашних кошек, выведенная в Африки и Юго-Восточной Азии. Абиссинская - одна из самых древних пород кошек и одновременно одна из первых пород, получивших официальный выставочный стандарт.
+  </li>
+  <br clear="all">
+  <li>
+<p><a name="siam"></a> </p>
+<font face="Verdana" size=5 color="navy">
+   7. Сиамские кошки
+  </font><br>
+<a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B0%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0" target="_blank">
+     <img src="https://zen-top.ru/wp-content/uploads/2020/04/2-porody-koshek-dla-doma-siamskaja.jpg" align="left" width="50%" height="50%" alt="Сиамская кошка" border="3" hspace="20" vspace="20">
+     </a> 
+Сиамские кошки – это кошки среднего, чаще небольшого размера. Туловище тонкое, продолговатое, грациозное. Голова клиновидная, вытянутая, с изящной мордочкой.
+  </li>
+  <br clear="all">
+  <li>
+<p><a name="pers"></a> </p>
+<font face="Verdana" size=5 color="navy">
+   8. Персидские кошки
+  </font><br>
+
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0" target="_blank">
+     <img src="https://zen-top.ru/wp-content/uploads/2020/04/1-porody-koshek-dla-doma-persidskaja.jpg" align="right" width="50%" height="50%" alt="Персидские кошки" border="3" hspace="20" vspace="20">
+     </a> 
+
+Порода длинношёрстных кошек, одна из старейших и самых популярных в мире.
+  </li>
+  <br clear="all">
+  <li>
+   <center> <p><a href="#top">Наверх</a></p> </center>
+ </li>
+ <br clear="all">
+ </ul>
+</ul>
+</body>
+</html>
